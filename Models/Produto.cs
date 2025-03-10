@@ -1,5 +1,4 @@
 ﻿using SQLite;
-using SQLite.Net.Attributes;
 
 namespace MauiAppMinhasCompras.Models
 {
